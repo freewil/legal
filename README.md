@@ -1,16 +1,16 @@
- # blockscore-legal
+# blockscore-legal
 
 This repository is dedicated to tracking the changes we make to any legal documentation given to our customers. One of our goals is to be as transparent as possible and to allow anyone to judge our business practices easily.
 
 The purpose of this repository is threefold:
 
-* Ask questions
+* **Ask questions**: 
 Sometimes legal jargon can be difficult to understand. If you need a clearer explanation of what specific terms mean or what their implications are for your business, we want to help.
 
-* Raise concerns
+* **Raise concerns**: 
 Perhaps something in our documentation doesn't sit well with you. We're open to any and all criticism of our work.
 
-* Suggest changes
+* **Suggest changes**: 
 In the event that you notice confusing wording or think of an addition which would reasonably benefit your business, you can file a pull request (see How to Contribute below) and we'll review your changes. It could very well end up in the next version of our legal documentation.
 
 ## How to Contribute
