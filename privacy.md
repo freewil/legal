@@ -102,6 +102,16 @@ We’ve structured our websites so that, in general, you can visit BlockScore si
 
   We train our employees on these security procedures, and we conduct regular audits to check on compliance with the procedures.
 
-10. **Changes to this Statement**
+10. **Data retention policy**
+
+  We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@blockscore.com.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
+
+  If your account is deleted all personal information will be removed from our systems except for any transaction data, history logs, records required to comply with our legal obligations, resolve disputes and enforce our agreements.
+
+11. **Third parties**
+
+  We use third party databases and government services in order to provide our services. When you use your service, we share customer information with these third parties in order to carry out our described purposes. This information is subject to those parties' own privacy policies. All third parties we use must adhere to the same standards which we set forth in our own privacy policy.
+
+12. **Changes to this Statement**
 
   If there are updates to the terms of the BlockScore’s Privacy Statement, we will post those changes and update the revision date in this document, so you will always know what information we collect online, how we use it, and what choices you have.
