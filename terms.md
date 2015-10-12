@@ -51,7 +51,7 @@ This Identity Verification Application and License Agreement (“Agreement”) i
 
     BlockScore represents and warrants to Customer that:
     * The license of the BlockScore Services to Customer does not violate any agreement or obligation between BlockScore and any third party.
-    * The BlockScore Services not will infringe on any copyright, patent, trade secret or other proprietary right held by any third party.
+    * The BlockScore Services will not infringe on any copyright, patent, trade secret or other proprietary right held by any third party.
     * When executed and delivered by BlockScore, this Agreement will constitute the legal, valid, and binding obligation of BlockScore, enforceable in accordance with its terms.
 
 13. **PERMITTED USES AND RESTRICTIONS**.
